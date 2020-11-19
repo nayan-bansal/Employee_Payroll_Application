@@ -77,3 +77,4 @@ save = () => {
     employeePayrollData.note=getInputValueById('#notes');
     alert(employeePayrollData.toString());
 }
+
